@@ -1,6 +1,7 @@
 SCENE II. A room of state in the castle.
 
     Enter KING CLAUDIUS, QUEEN GERTRUDE, HAMLET, POLONIUS, LAERTES, VOLTIMAND, CORNELIUS, Lords, and Attendants 
+    Costumes must be ready to go. 
 
 KING CLAUDIUS
 
