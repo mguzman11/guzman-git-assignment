@@ -12,7 +12,7 @@ FRANCISCO
 
 BERNARDO
 
-    Long live the king!
+    Long live the king! And his queen too!
 
 FRANCISCO
 
