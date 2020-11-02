@@ -270,6 +270,7 @@ HAMLET
 HORATIO
 
     My lord, I came to see your father's funeral.
+    And I cried like a baby, but I was not truely sad. 
 
 HAMLET
 
